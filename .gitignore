@@ -1,0 +1,4 @@
+*.txt
+*.jpg
+.idea/
+.ipython_checkpoints/
